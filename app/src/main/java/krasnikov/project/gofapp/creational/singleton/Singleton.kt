@@ -1,4 +1,4 @@
-package krasnikov.project.gofapp.creational
+package krasnikov.project.gofapp.creational.singleton
 
 class DataSource private constructor() {
 
